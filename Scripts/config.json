@@ -1,0 +1,65 @@
+{
+    "movement_type":
+    {
+        "local machine":
+        [
+            {
+                "overwrite": "---",
+                "src_dir": "---",
+                "dest_dir": "---",
+                "file_name": "---"
+            },
+            {
+                "overwrite": "---",
+                "src_dir": "---",
+                "dest_dir": "---",
+                "file_name": "---"
+            },
+            {
+                "overwrite": "---",
+                "src_dir": "---",
+                "dest_dir": "---",
+                "file_name": ""
+            }
+        ],
+        "dropbox":
+        [
+            {
+                "overwrite": "---",
+                "src_dir": "---",
+                "dest_dir": "---",
+                "file_name": "",
+                "dropboxSettings":
+                {
+                    "app_key":"---",
+                    "app_secret":"---",
+                    "access_token":"---"
+                }
+            }
+
+        ],
+        "outlook":
+        [
+            {
+                "overwrite": "---",
+                "dest_dir": "---",
+                "emailSettings":
+                {
+                    "subjects": ["---", "---"],
+                    "email_saved_folder": "---",
+                    "user_email": "---"
+                }
+            },
+            {
+                "overwrite": "---",
+                "dest_dir": "---",
+                "emailSettings":
+                {
+                    "subjects": [],
+                    "email_saved_folder": "---",
+                    "user_email": "---"
+                }
+            }
+        ]
+    }
+}
